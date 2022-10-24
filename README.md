@@ -167,8 +167,12 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb:
-Florence Wangui - [Github](https://github.com/Florence-wangui)
+
 Bob Kamau - [Github](https://github.com/bobkamau)
+  
+  
+Florence Wangui - [Github](https://github.com/Florence-wangui)
+  
 
 ## License
 Public Domain. No copy write protection. 
